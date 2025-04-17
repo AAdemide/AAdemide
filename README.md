@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm midé</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer+💻;Dog+Lover+🐶;Lifelong+learner+🌱;Teaching+myself+🎸;Listening+to+audiobooks+🎧&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=F729EC&center=true&vCenter=true&width=435&lines=Software+Developer+%F0%9F%92%BB;Dog+Lover+%F0%9F%90%B6;Lifelong+learner+%F0%9F%8C%B1;Teaching+myself+%F0%9F%8E%B8;Listening+to+audiobooks+%F0%9F%8E%A7" alt="Ademide's Typing SVG" />
 </p>
 
 <br>
